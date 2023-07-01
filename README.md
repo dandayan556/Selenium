@@ -13,3 +13,14 @@ libraries enabling web browser automation. Selenium specifically
 provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/)
 — a platform and language-neutral coding interface compatible with all
 major web browsers.
+
+
+<a href="https://github.com/dandayan556" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/dandayan556/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%00620b199.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
